@@ -1,0 +1,86 @@
+
+#tax_calculator {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    width: 100%;
+    border: 3px solid blue;
+    padding: 0 2em 1em;
+}
+
+h3 {
+    color: blue;
+}
+#in1 #out2 {
+    margin-bottom: 1em;
+}
+label {
+    display: inline-block;
+    width: 11em;
+    text-align: right;
+}
+input {
+    margin-left: 1em;
+    margin-right: 0.5em;
+}
+span {
+    color: red;
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+/*Gallery*/ 
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-bottom: .25em;
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 120%;
+    padding: .5em 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 0 0.25em;
+    display: inline;
+}
+
+.nav-link {
+    padding: 0.5em;
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+
+.gallery-img {
+    width: 100%;
+    height: auto;
+}
+
+#caption, #gallery {
+    text-align: center;
+    margin-top: 1em;
+}
